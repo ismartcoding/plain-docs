@@ -1,0 +1,11 @@
+{
+  "name": "plain-docs",
+  "packageManager": "yarn@4.0.2",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
