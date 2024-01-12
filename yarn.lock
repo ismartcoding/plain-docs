@@ -902,7 +902,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@vuepress/theme-default@npm:2.0.0-rc.0":
+"@vuepress/theme-default@npm:2.0.0-rc.0, @vuepress/theme-default@npm:^2.0.0-rc.0":
   version: 2.0.0-rc.0
   resolution: "@vuepress/theme-default@npm:2.0.0-rc.0"
   dependencies:
@@ -2347,6 +2347,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "plain-docs@workspace:."
   dependencies:
+    "@vuepress/theme-default": "npm:^2.0.0-rc.0"
     vuepress: "npm:^2.0.0-rc.0"
   languageName: unknown
   linkType: soft

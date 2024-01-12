@@ -2,6 +2,7 @@
   "name": "plain-docs",
   "packageManager": "yarn@4.0.2",
   "devDependencies": {
+    "@vuepress/theme-default": "^2.0.0-rc.0",
     "vuepress": "^2.0.0-rc.0"
   },
   "scripts": {
