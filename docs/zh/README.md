@@ -2,10 +2,10 @@
 home: true
 title: 首页
 actions:
-  - text: Download
+  - text: 下载
     link: https://github.com/ismartcoding/plain-app/releases
     type: primary
-  - text: FAQ
+  - text: 问题解答
     link: /zh/faq.html
     type: secondary
 features:
