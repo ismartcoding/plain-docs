@@ -16,7 +16,7 @@ sidebar: auto
 
 ## 为什么在尝试访问网页时会遇到错误 "This site can’t be reached"？
 
-1. 检查 PlainApp 顶部右上角的点的颜色。如果是红色，则 Web 服务器未运行。如果是绿色，则 Web 服务器运行正常。
+1. 检查简朴顶部右上角的点的颜色。如果是红色，则 Web 服务器未运行。如果是绿色，则 Web 服务器运行正常。
 
    <img src="/images/web-server-dot-green.png" />
 
